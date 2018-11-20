@@ -1,0 +1,16 @@
+CRUD stands for Create Read Update Delete. Sometimes called CRUDL, the 'L' is for, listing, of large data sets.
+
+CRUD is referring to all of the major functions that are implemented in a relational database application.
+
+Also can be described as all the functions involved in a user interface that helps viewing, searching, and changing information.
+
+Another way to view CRUD is:
+
+When building an API model - the four basic types of functionality that the model must possess are: CRUD.
+
+Overall it seems that CRUD is basically a methodology or paradigm that helps developers create a usable model for web applications, storage databases, etc. It's a term used in CS that refers to the required functionality that a usable API model must contain.  
+
+All of that being said, in a REST (see module 2 - REST(ful)) environment, CRUD refers to the fundamental elements of a persistant storage system, which is controlled with HTTP methods. Which means CRUD becomes, POST, GET, PUT, and DELETE.
+
+
+

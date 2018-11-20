@@ -1,0 +1,3 @@
+REST - stands for REpresentational State Transfer, which is a way of standardizing computer systems on the web, making communication easier. Systems that are utilizing this architectural style are referred to as RESTful systems. 
+
+RESTful systems are stateless meaning they seperate, or modularize,  the concerns of the server and the client. This allows for changes on either side to be made without effecting the other. 

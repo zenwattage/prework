@@ -1,0 +1,3 @@
+Azure
+
+As it turns out Azure is basically Microsoft's version of Amazon Web Services(AWS). Serving cloud-based business infrastructure. 

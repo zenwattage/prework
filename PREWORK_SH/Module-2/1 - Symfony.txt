@@ -1,0 +1,8 @@
+﻿The Symfony landing page says that : "Symfony is a set of PHP Components, a Web Application framework, a Philosophy, and a Community — all working together in harmony."
+
+Which doesn't tell me a whole lot. I understand what a Web Application framework is, Philosphy is, and Community is. So I assume the meat of what Symfony does is it's, 'set of PHP Components'.
+
+Which, after more reading, turns out is all that Symfony is. A PHP framework.   
+
+It's simply one of the most popular. Other PHP frameworks include; Zend, Laravel, Aura, CakePHP, and Yii.
+
