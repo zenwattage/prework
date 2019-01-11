@@ -1,0 +1,1 @@
+XHTML stands for Extensible Hypertext Markup Language. Essentially XHTML is a XML(Extensible Markup Language) application that 'extends' HTML. Meaning, XHTML conforms to XML syntax specifications. 

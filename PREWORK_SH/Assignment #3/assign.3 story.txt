@@ -1,0 +1,7 @@
+Assignment #3: My Greatest Challenge
+
+9. Plan Often...
+
+After reading this module I would target my ability to fully break down the problem and plan my process out beforehand as being a challenge I would like to attack. Breaking down a complex task into smaller, managable, parts is sometimes difficult when I would rather just dive in and start 'trial and erroring' my way through. I know from past CS classes that this part of the process is absolutely vital and will always save immeasurable amounts of time in the long run. This is a skill that I want to grow simply because it is crucial for programming but it is also very helpful in every day life when tackling difficult goals making long term plans. 
+
+My plan is to remember the value of fully planning out my steps i'm going to take to tackle the problem and when I'm banging my head against a wall, to go back, and make sure I have fully understood the problem and broken the problem down correctly before I continue spiraling down the 'I'm stuck for hours randomly trying random things to see if something randomly works' rabbit hole.

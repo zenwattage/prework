@@ -1,0 +1,5 @@
+Ajax stands for Asynchronous Javascript And Xml. So basically Ajax is a combination of an object to transport data to and from the server and a JavaScript DOM to display and use the data. With Ajax, Web applications can send and retrieve data from a server asynchronously (one then the other) without interfering with the display and behavior of the existing page.
+
+
+
+

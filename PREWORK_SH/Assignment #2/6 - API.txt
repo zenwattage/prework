@@ -1,0 +1,1 @@
+API stands for Application Program Interface. Essentially an API is a set of protocols and tools that specify how different software components should interact for a given context. 

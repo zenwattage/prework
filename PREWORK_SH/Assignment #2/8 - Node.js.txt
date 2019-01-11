@@ -1,0 +1,1 @@
+Node.js is a JavaScript run-time environment that is server-side. Meaning it runs JavaScript code on the server which allows a user viewing the page through a browser that is incapable of running JavaScript to still be able to view the page. 
