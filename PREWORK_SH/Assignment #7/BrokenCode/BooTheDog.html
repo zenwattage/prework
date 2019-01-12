@@ -55,14 +55,42 @@
 
 	<div class="row text-center">
 
-	<div class="col-sm-6">
-		<button class="btn btn-primary form-control" id="factButton">Random Boo Fact</button>
-		<div class="well text-center">
-			<div>
+		<div class="col-sm-6">
+			<button class="btn" id="boxGrow">Grow</button>
+			<button class="btn" id="boxShrink">Shrink</button>
+			<br>
+			<br>
+			<div class="well text-center">
+				<img id="box" src="http://petradioshow.com/wp-content/uploads/2015/05/jiff1.jpg">
+			</div>
+		</div>
+
+		<div class="col-sm-6 text-center">
+			<button class="btn" id="textOrange">Orange</button>
+			<button class="btn" id="textPink">Pink</button>
+			<button class="btn" id="textGreen">Green</button>
+			<br>
+			<br>
+			<div class="well text-center">
+				<p id="funText">Boo Rules!</p>
+			</div>
+		</div>
+
+	</div>
+
+	<br><br><br><br>
+
+	<div class="row">
+
+		<div class="col-sm-6 text-center">
+			<button class="btn btn-primary form-control" id="factButton">Random Boo Fact</button>
+			<div class="well text-center">
+				<div>
 					<p id="factText">Click the button for a random Boo fact!</p>
 				</div>
 			</div>
-			</div>
+		</div>
+
 		<div class="col-sm-6">
 			<div class="panel panel-primary">
 				<div class="panel-heading">List Of Boo's Favorite Things</div>
@@ -75,40 +103,14 @@
 						<li>Hiking</li>
 					</ol>
 				</div>
-				</div>
 			</div>
-	</div>
-
-	<br><br><br><br>
-
-	<div class="row text-center">
-			
-		<div class="col-sm-6 text-center">
-			<button class="btn" id="textGreen">Orange</button>
-			<button class="btn" id="textOrange">Pink</button>
-			<button class="btn" id="textPink">Green</button>
-			<br><br>
-			<div class="well text-center">
-				<p id="funText">Boo Rules!</p>
-			</div>
-
 		</div>
-
-		<div class="col-sm-6">
-		<button class="btn" id="boxGrow">Grow</button>
-		<button class="btn" id="boxShrink">Shrink</button>
-		<br>
-		<br>
-		<div class="well text-center">
-			<img id="box" src="http://petradioshow.com/wp-content/uploads/2015/05/jiff1.jpg">
-		</div>
-	</div>
 
 	</div>
 	
 </div>
 
-<!-- Linking our JavaScript file -->>
+<!-- Linking our JavaScript file -->
 <script type="text/javascript" src="logic.js"></script>
 </body>
 </html>
