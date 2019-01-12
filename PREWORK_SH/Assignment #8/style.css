@@ -1,0 +1,33 @@
+ 
+ body {
+     background-image: url("https://s3.amazonaws.com/files.madeinkatana.com/xavierrudd/54be376053349.jpg");
+     background-repeat: repeat;
+     background-attachment: fixed;
+     background-position-y: 50px;
+ }
+ 
+/* Centered text */
+.centered {
+    color: lightseagreen;
+    text-align: center;
+    font-size: 300%;
+    text-shadow: 2px 2px darkcyan;
+} 
+
+#player {
+    text-align: center;
+    align-content: center;
+    margin-left: 25%;
+    padding-bottom: 5%;
+}
+
+/* bio text */
+.bio {
+    margin-left: 10%;
+    margin-right: 10%;
+    left: 16px;
+    text-shadow: 1px 1px black;
+    font-size: 20px;
+    color: darkcyan;
+    text-align: justify;
+}

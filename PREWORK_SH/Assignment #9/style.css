@@ -1,0 +1,47 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+#big {
+    font-size: 150%;
+}
+
+#tiny {
+    font-size: 50%;
+}
+
+#centered {
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#fontChange {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#multi {
+    font-size: 180%;
+    color: orange;
+    font-weight: bold;  
+}
+
+.styledFont {
+    color: green;
+}
+
+#styledImage {
+    border-style: solid;
+    border-width: 8px 8px 8px 8px;
+    border-color: orange;
+}
